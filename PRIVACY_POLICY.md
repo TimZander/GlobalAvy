@@ -1,6 +1,6 @@
 # Privacy Policy for Colorado Avalanche Alerts
 
-**Last Updated:** [DATE]
+**Last Updated:** November 25, 2025
 
 ## Introduction
 
@@ -81,16 +81,15 @@ We may update this Privacy Policy from time to time. Changes will be reflected i
 ## Your Rights
 
 You have full control over your data:
-- **Delete Locations**: Remove saved locations at any time through the app's Location Management page
-- **Clear Cache**: Force clear cached data via the app's Debug Settings
+- **Reset All Settings**: Reset all settings to their defaults when installed through the app settings
 - **Uninstall**: Completely removes all app data from your device
 
 ## Contact Information
 
 If you have questions about this Privacy Policy or the app's data practices, please contact:
 
-**Email:** [YOUR EMAIL]
-**GitHub Issues:** https://github.com/[YOUR-USERNAME]/AvalancheAlert/issues
+**Email:** tusk-mayday-gaming-unnoticed@proton.me
+**GitHub Issues:** https://github.com/TimZander/ColoradoAvalancheAlertPublic/issues
 
 ## Disclaimer
 
@@ -98,9 +97,4 @@ This app provides avalanche forecast information for informational purposes only
 
 ---
 
-**Note to Developer**: Before publishing:
-1. Fill in [DATE] with the current date
-2. Replace [YOUR EMAIL] with your support email address
-3. Update the GitHub Issues link with your actual GitHub username
-4. Consider hosting this on a public URL (GitHub Pages, personal website, etc.)
-5. Link to this privacy policy from the Play Store listing and in the About page of the app
+**Note**: Link to this privacy policy from the Play Store listing and in the About page of the app.
