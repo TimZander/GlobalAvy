@@ -1,11 +1,11 @@
-# Colorado Avalanche Alerts
+# GlobalAvy
 
-## Privacy Policy
+**GlobalAvy** is a mobile application that provides avalanche forecasts and weather information for backcountry recreationists worldwide.
 
-View our complete [Privacy Policy](PRIVACY_POLICY.md) to learn how we handle your data.
+## Report an issue
 
----
+Found a bug or have a feature request? [Open an issue on GitHub](https://github.com/TimZander/GlobalAvy/issues).
 
-**Colorado Avalanche Alerts** is a mobile application that provides avalanche forecasts and weather information for Colorado backcountry enthusiasts.
+## Privacy policy
 
-For questions or support, please visit our [GitHub repository](https://github.com/tzander/ColoradoAvalancheAlertPublic).
+The app's privacy policy is published at [timzander.com/avalanche-alerts/privacy](https://timzander.com/avalanche-alerts/privacy).
